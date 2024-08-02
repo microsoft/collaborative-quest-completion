@@ -1,0 +1,88 @@
+[Chat] Elena: Oh, I see you have a fine iron sword there! It must have served you well in your adventures.
+[Chat] Player: Hello, thank you. Very nice meeting you.
+[Chat] Elena: It's a pleasure to meet you too! I'm Elena, the village healer. I have a favor to ask, but I understand if you're busy.
+[Chat] Player: I'll be welding too. What do you need help with?
+[Goal] : Sub-goal: Explain the importance of building a path or staircase to the island and ask the player to gather specific materials needed for the construction.
+[Chat] Elena: My friend Alaric is stuck on an island high above us, and I fear he's in danger. I can't leave the village for long, but I need someone to gather materials to build a path or staircase to reach him. Could you help me collect cobblestones and oak logs for
+[Chat] Elena: the construction? I'll be grateful for your assistance.
+[Chat] Player: Of course I'm on it.
+[Chat] Elena: Thank you so much! I really appreciate your help. If you need any assistance while gathering materials, just let me know.
+[Chat] Player: Can you please repeat what kinds of materials you need?
+[Chat] Elena: Of course! I need cobblestones and oak logs to build the path or staircase to reach the island.
+[Chat] Player: I don't know where the where to find coppers though.
+[Item] Alaric: Cobblestone picked up
+[Goal] : Sub-goal: Provide the player with directions or hints on where to find cobblestones and oak logs in the game world.
+[Chat] Elena: You can find cobblestones by mining stone blocks with a pickaxe. As for oak logs, you can obtain them by chopping down oak trees. Let me know if you need help with mining or chopping.
+[Chat] Player: Why don't you go collect the cobblestones while I chop the oak trees?
+[Chat] Elena: That sounds like a great plan! I'll start mining cobblestones for you.
+[Chat] Player: It is getting dark and tired.
+[Chat] Elena: I understand, let's take a break for now. We can continue gathering materials tomorrow when it's bright and we're well-rested.
+[Chat] Player: Thank you. Do you mind if I walk around?
+[Chat] Elena: Of course, feel free to explore the village. If you'd like, I can accompany you and show you around. Just let me know if you need me.
+[Chat] Player: I am being attacked. Please help.
+[Chat] Elena: I'm sorry, but as a healer, I cannot fight. Please find a safe place and avoid the danger.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Chat] Player: Are you OK? You were attacked by zombies?
+[Chat] Elena: I'm fine, thank you for your concern. As a healer, I'm used to dealing with dangers in the village. Please stay safe and let me know if you need any assistance.
+[Chat] Player: Are you able to heal me?
+[Chat] Elena: Yes, I can heal you. Please come closer, and I will apply my healing skills.
+[Chat] Elena: I'm sorry, I don't have a splash potion of healing with me right now. Please find a safe place to rest and recover your health.
+[Chat] Player: Can you put some bread in the chest?
+[Chat] Elena: I'm sorry, I don't have any bread with me right now. You might want to check the village farms or trade with a villager for some bread.
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Item] Alaric: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Iron Sword
+[Chat] Player: Hi, would you mind to show me around?
+[Chat] Elena: Of course! Let's start with the village center, where you'll find the well and some villagers who might have useful items to trade.
+[Equipped] Player: Iron Sword
+[Item] Alaric: String picked up
+[Equipped] Player: Iron Sword
+[Item] Alaric: Bone picked up
+[Item] Alaric: Arrow picked up
+[Item] Alaric: Rotten Flesh picked up
+[Equipped] Player: Iron Sword
+[Chat] Player: Hey, where do I find you?
+[Equipped] Player: Iron Sword
+[Chat] Player: Hey, you're here. Good to see you again.
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Wheat
+[Equipped] Player: Rotten Flesh
+[Chat] Elena: Hi there! It's nice to see you again too. If you need any help or have any questions, feel free to ask.
+[Equipped] Player: Wheat
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Iron Sword
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Wheat
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Arrow
+[Equipped] Player: Bow
+[Equipped] Player: Dirt
+[Equipped] Player: Iron Sword
+[Chat] Player: I would like to build a house. Can you please help?
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Wheat
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Enchanted Golden Apple

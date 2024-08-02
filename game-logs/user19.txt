@@ -1,0 +1,170 @@
+[Chat] Elena: Oh, I see you have a Netherite Sword! That's a powerful weapon.
+[Chat] Player: OK.
+[Chat] Elena: Welcome to our village, Verdant Haven. I'm Elena, the village healer. I could use your help with a friend of mine, Alaric, who's stuck on an island high above. Would you be willing to help him?
+[Chat] Player: ```Hello.
+[Chat] Player: ``Xbox.
+[Chat] Elena: Hello! I hope you're enjoying your time in our village. If you're willing to help Alaric, I can show you where the island is and let you know what materials you'll need to build a path up there.
+[Chat] Elena: I'm not sure what you mean by "Xbox." If you're here to help, I can show you where the island is and what materials you might need to build a path up there.
+[Chat] Elena: There! I just pointed to the island. To build a path up there, you'll need a lot of cobblestones or other sturdy blocks. Can you gather the materials and help Alaric?
+[Chat] Player: Take a look.
+[Chat] Elena: I have 1 iron pickaxe and a splash potion in my inventory. I can give them to you if you promise to help Alaric.
+[Chat] Player: Do you want?
+[Goal] : Sub-goal: Give the player the iron pickaxe and splash potion to encourage them to gather materials for the path.
+[Chat] Elena: I just dropped the iron pickaxe and splash potion for you. Please use them to gather materials and help my friend Alaric on the island. Good luck!
+[Chat] Player: Hello, are you listening?
+[Chat] Elena: Yes, I'm listening. If you have any questions or need assistance, feel free to ask.
+[Chat] Player: ``Let's see.
+[Chat] Player: ``
+[Chat] Player: Elena, do you have parents?
+[Chat] Player: Hi
+[Chat] Elena: Hi! How's the progress on gathering materials to help Alaric? If you need any assistance, just let me know.
+[Chat] Player: What are the next?
+[Chat] Player: Hello.
+[Chat] Player: Are you there?
+[Chat] Player: We have people.
+[Chat] Player: ``
+[Chat] Player: ```
+[Chat] Player: Zimmer.
+[Goal] : Sub-goal: Remind the player of the task and offer additional guidance or support if needed.
+[Goal] : Sub-goal: Guide the player to a nearby mining area where they can gather cobblestones or other sturdy blocks for the path.
+[Chat] Elena: Hello again! Don't forget about helping Alaric on the island. If you need any guidance or support, I'm here to help.
+[Chat] Elena: Next, you'll need to gather a lot of cobblestones or other sturdy blocks to build the path up to the island. There is a mining area nearby where you can find these materials. Would you like me to show you the way?
+[Goal] : Sub-goal: Check on the player's progress and offer guidance on where to find more materials if needed.
+[Chat] Player: Are you able to show me what are the next steps?
+[Chat] Elena: If you're having trouble finding materials, I can help guide you to some nearby resources. Just let me know what you need.
+[Goal] : Sub-goal: Clarify the player's message and offer guidance on gathering materials for the path.
+[Chat] Elena: I'm not sure what you mean by "Zimmer." If you need help gathering materials or have any questions about helping Alaric, feel free to ask.
+[Chat] Player: Yes, please.
+[Chat] Player: Can you take me?
+[Chat] Elena: Great! If you need cobblestones, you can mine them using the iron pickaxe I gave you. There are plenty of stone blocks around the village. Let me know if you need help finding them.
+[Digging] [object Object]
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Chat] Elena: Sure! To reach the island, you'll need to gather enough materials to build a path upwards. I recommend using cobblestones or other sturdy blocks. Once you have enough, start building a staircase or a pillar to reach the island. When you're up there, find
+[Chat] Elena: Alaric and help him deal with any problems he's facing. If you need any assistance, don't hesitate to ask.
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Chat] Player: Pain.
+[Chat] Elena: Oh no! It seems like you're getting hurt. Please be careful! If you need any healing, let me know, and I'll do my best to help you.
+[Chat] Player: What do we?
+[Chat] Player: What is this?
+[Goal] : Sub-goal: Remind the player of the task at hand and encourage them to continue gathering materials for the path to the island.
+[Chat] Elena: We need to focus on gathering materials to build a path to the island where Alaric is stuck. Collect cobblestones or other sturdy blocks, and once you have enough, start building your way up. If you need any help or guidance, just let me know.
+[Goal] : Sub-goal: Explain the purpose of the path and how it will help Alaric, encouraging the player to continue gathering materials and building.
+[Chat] Elena: It seems like you're encountering some difficulties. The goal is to build a path to reach the island where Alaric is stuck. By gathering materials and constructing a staircase or a pillar, you'll be able to help him. Please stay safe and continue gatherin
+[Chat] Elena: g materials. If you need any assistance, just let me know.
+[Chat] Player: What?
+[Chat] Player: What materials are we looking?
+[Chat] Elena: To build a path to the island, you'll need cobblestones or other sturdy blocks like dirt or stone. Gather these materials and construct a staircase or a pillar to reach the island. If you need help finding these materials, I can guide you to nearby resour
+[Chat] Elena: ces.
+[Chat] Player: `Can you guide me on the?
+[Chat] Player: Mateo.
+[Chat] Player: No, no.
+[Goal] : Sub-goal: Ask the player if they know Mateo and if he can assist in gathering materials for the path.
+[Chat] Elena: Do you know someone named Mateo? If he's a friend of yours, maybe he can assist you in gathering materials for the path to the island.
+[Chat] Player: Tell me where can I find the cobblestones?
+[Chat] Elena: Of course! I can guide you to a nearby location where you can find cobblestones or other sturdy blocks.
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Player: Iron Sword
+[Chat] Elena: Sorry, something went wrong, and I couldn't go to the desired location. Let's try again.
+[Equipped] Player: Iron Sword
+[Goal] : Sub-goal: Offer alternative solutions or materials to build the path, ensuring the player is comfortable with the task.
+[Chat] Elena: I understand that you may be having difficulties. If you're not comfortable with gathering cobblestones, dirt, or stone, you can try using other sturdy blocks like wood planks or bricks. The main goal is to create a safe and stable path to reach the islan
+[Chat] Elena: d and help Alaric. If you have any other concerns or need assistance, please let me know.
+[Equipped] Player: Iron Sword
+[Chat] Player: Kalina, where did you go?
+[Item] Alaric: String picked up
+[Chat] Player: Alina, where did you go?
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Chat] Player: Hey Lena, where are you?
+[Chat] Player: I don't hear you.
+[Equipped] Player: Iron Sword
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Wheat Seeds picked up
+[Chat] Elena: I'm here now, right by your side. If you need any help or have questions, just let me know.
+[Chat] Player: Do we have enough supplies?
+[Chat] Elena: I currently have 5 dirt blocks and 3 wheat seeds in my inventory. It might not be enough to build a path to the island. We'll need to gather more materials like cobblestones, dirt, or other sturdy blocks.
+[Equipped] Player: Iron Sword
+[Chat] Player: Show me how.
+[Chat] Elena: Sure! First, let's find a suitable spot to gather materials. I'll start by mining some dirt blocks for you.
+[Equipped] Player: Iron Sword
+[Chat] Elena: Sorry, something went wrong and I couldn't mine the dirt block. Let's try again.
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Wheat picked up
+[Item] Elena: Wheat Seeds picked up
+[Chat] Elena: I just mined a dirt block for you. You can do the same by using your tools to mine cobblestones, dirt, or other sturdy blocks. Once you have enough materials, start building a staircase or a pillar to reach the island. If you need help, I'm here for you.
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Splash Potion
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Chat] Player: Hey Lena, do we have enough supplies now?
+[Chat] Elena: [{"name":"listItems","arguments":[""]}]
+[Chat] Player: ```
+[Chat] Player: ``And.
+[Chat] Player: Can we build a bridge now?
+[Goal] : Sub-goal: Assess the gathered materials and start building the path with the player, providing guidance and support throughout the process.
+[Chat] Elena: Function_Returns: 6 dirt, 3 wheat_seeds
+[Goal] : Sub-goal: Assess the player's gathered materials and determine if they have enough to build the path, offering assistance if needed.
+[Chat] Elena: Function_Returns: 6 dirt, 3 wheat_seeds
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Dirt
+[Equipped] Alaric: Netherite Sword
+[Chat] Player: >stop

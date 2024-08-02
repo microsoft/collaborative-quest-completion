@@ -1,0 +1,189 @@
+[Chat] Player: Hey, Elena.
+[Chat] Elena: Oh, I see you have a fine Netherite Sword! It must have taken you quite some time to acquire such a powerful weapon.
+[Chat] Elena: Hello! I'm glad you're here. I could use your help. My friend Alaric is stuck on an island high above the village, and I can't leave my duties as a healer to go help him. Would you be willing to go up there and help him out?
+[Chat] Player: Sure. Can you tell me again what I need to do?
+[Chat] Elena: Great! You'll need to gather materials to build a path up to the island. Once you have enough materials, you can start building a way up there. Be careful, though, the island is infested with spiders. Good luck!
+[Chat] Player: Where's the island?
+[Chat] Elena: The island is high up in the sky, above our village.
+[Chat] Elena: Right there! I just pointed to it. Look up and you'll see the island above our village.
+[Chat] Player: I see it.
+[Chat] Player: Thank you.
+[Chat] Elena: Great! Remember to gather enough materials to build a path up to the island. Be prepared for the spiders and help Alaric when you get there. Good luck!
+[Chat] Elena: You're welcome! If you need any help or have any questions, feel free to ask me. Good luck on your journey to help Alaric!
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Item] Elena: Wheat Seeds picked up
+[Equipped] Player: Hay Bale
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Torch
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Dirt
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: String
+[Equipped] Player: Gray Wool
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Torch
+[Equipped] Player: Iron Sword
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Melon Slice
+[Equipped] Player: String
+[Equipped] Player: Gray Wool
+[Equipped] Player: Torch
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Melon Slice
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Iron Sword
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Slice
+[Equipped] Player: String
+[Equipped] Player: Gray Wool
+[Equipped] Player: String
+[Equipped] Player: Melon Slice
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Hay Bale
+[Equipped] Player: Iron Sword
+[Chat] Player: Hey, Electric.
+[Chat] Player: What you doing?
+[Chat] Alaric: Hey there! How can I help you?
+[Chat] Player: What's your favorite block?
+[Equipped] Player: Torch
+[Equipped] Player: Iron Sword
+[Equipped] Player: Torch
+[Equipped] Player: Gray Wool
+[Equipped] Player: Iron Sword
+[Equipped] Player: Hay Bale
+[Chat] Player: What do you thinking?
+[Chat] Alaric: My favorite block is diamond. It's not only valuable, but it also reminds me of my precious diamond sword that I once had.
+[Chat] Alaric: I'm trying to defend myself from these spiders! Can you help me fight them off?
+[Equipped] Player: Hay Bale
+[Equipped] Player: Iron Sword
+[Equipped] Player: Gray Wool
+[Equipped] Player: Iron Sword
+[Goal] : Sub-goal: Convince the player to help find or craft a new diamond sword for better spider defense.
+[Chat] Alaric: I'm thinking that I could really use a new diamond sword to defend myself better against these spiders. If you could help me find or craft one, I'd be really grateful.
+[Chat] Player: Follow me.
+[Equipped] Player: Iron Sword
+[Chat] Alaric: Alright, I'm following you now. Lead the way!
+[Equipped] Player: Iron Sword
+[Chat] Player: Save me.
+[Equipped] Player: Iron Sword
+[Chat] Player: >stop

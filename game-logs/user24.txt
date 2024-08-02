@@ -1,0 +1,80 @@
+[Chat] Elena: Wow, that's a nice Netherite Sword you have there. It must have taken a lot of effort to get it.
+[Chat] Player: Hello.
+[Chat] Elena: Hello! Welcome to our village, Verdant Haven. My name is Elena, I'm the village healer. How can I help you today?
+[Chat] Player: Can you chop some wood?
+[Goal] : Sub-goal: Explain the need for wood in building the path and ask the player to gather it themselves.
+[Chat] Elena: I'd love to help, but I need to stay close to the village in case someone needs my assistance. We need wood to build a path to the island above, where my friend Alaric is in trouble. Could you gather some wood instead?
+[Chat] Player: Ohh, what can you help with?
+[Chat] Elena: I can help with mining cobblestone, dirt, or stone if you need some materials for the path. Just let me know what you need, and I'll do my best to assist you.
+[Chat] Player: sCan you mine some cobblestone?
+[Chat] Player: Where did you go?
+[Equipped] Player: Diamond Helmet
+[Chat] Elena: Sorry for the confusion, I went to mine some cobblestone. Let's mine it together, shall we?
+[Chat] Elena: This is weird... I couldn't go to the desired location. Let's try mining cobblestone together here in the village.
+[Equipped] Player: Iron Sword
+[Chat] Elena: I'm back now. Let's mine some cobblestone together here in the village.
+[Equipped] Player: Iron Sword
+[Chat] Player: I can't find you. Can you come back to me?
+[Chat] Elena: I'm coming back to you now. Let's find a suitable spot to mine cobblestone together.
+[Chat] Elena: I'm here now. Let's find a suitable spot to mine cobblestone together.
+[Chat] Player: ``I see you now.
+[Chat] Player: ``Can we mind couples?
+[Goal] : Sub-goal: Suggest a nearby location to mine cobblestone and start mining together with the player.
+[Chat] Elena: Great! There's a spot with cobblestone nearby. Let's start mining together.
+[Goal] : Sub-goal: Clarify the player's request and suggest mining cobblestone as a useful material for the path.
+[Chat] Elena: I'm not sure what you meant by "couples." If you meant cobblestone, we can mine it together. It's a useful material for building the path to the island.
+[Chat] Player: Where's the cobblestone we combined?
+[Chat] Elena: I apologize for the confusion earlier. I wasn't able to mine the cobblestone successfully. Let's try mining it again together.
+[Chat] Player: Follow me.
+[Chat] Elena: Sure, I'll follow you. Let's find a good spot to mine cobblestone.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Chat] Player: Follow me.
+[Goal] : Sub-goal: Follow the player to the location they choose for mining cobblestone.
+[Chat] Elena: I'm already following you. Lead the way to the spot where we'll mine cobblestone.
+[Chat] Player: You're not following me.
+[Chat] Elena: My apologies, I'll make sure to follow you now. Please lead the way.
+[Chat] Player: Stop following me.
+[Chat] Elena: Alright, I'll stop following you. Let me know if you need my help later.
+[Equipped] Player: Iron Sword
+[Chat] Player: Follow me.
+[Chat] Elena: Okay, I'll follow you again. Lead the way to the spot where we'll mine cobblestone.
+[Chat] Player: ```
+[Chat] Elena: Is there something you need help with? Please let me know if you need assistance with mining cobblestone or anything else.
+[Chat] Player: Can you find some cobblestone?
+[Item] Elena: Dirt picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Dirt
+[Equipped] Player: Wheat Seeds
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Spider Eye
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Sword
+[Item] Elena: Cobblestone picked up
+[Equipped] Player: Iron Sword
+[Chat] Player: Help protect zombies.
+[Equipped] Player: Iron Sword
+[Goal] : Sub-goal: Offer to protect the player from zombies while they mine cobblestone.
+[Chat] Elena: I'm sorry, I cannot directly help you fight zombies. However, I can mine cobblestone while you protect us from the zombies. Let me know if you'd like me to do that.
+[Equipped] Player: Iron Sword
+[Equipped] Player: Rotten Flesh
+[Chat] Player: Do you have some of that cobblestone?
+[Equipped] Player: String
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: String
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Iron Sword
+[Chat] Elena: Yes, I have 29 cobblestones. Let me know if you'd like me to give them to you.
+[Chat] Player: Ohh, yes, Can you please give me the cobblestone?
+[Chat] Elena: This is weird... I don't know why I couldn't give you the cobblestone. Let's try again.

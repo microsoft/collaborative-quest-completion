@@ -1,0 +1,139 @@
+[Chat] Elena: Wow, that's a nice Netherite Sword you have there. I'm Elena, the village healer. I could use your help with a friend who's in trouble.
+[Chat] Player: Hi, Elena.
+[Chat] Elena: Hello! I have a friend named Alaric who's stuck on an island high above our village. He's been there for a while, and I'm worried about him. Would you be willing to help him?
+[Chat] Player: ```Yes.
+[Goal] : Sub-goal: Ask the player to collect a specific number of wood planks and cobblestone for the path or staircase construction.
+[Chat] Elena: Thank you! To reach the island, you'll need to build a path or staircase. We'll need a lot of materials for that. Could you gather 64 wood planks and 64 cobblestones for the construction?
+[Chat] Player: Can you guide me where I can find them?
+[Chat] Elena: Sure! You can find wood planks by chopping down oak trees around the village. For cobblestones, you can mine the stone around the hills nearby.
+[Chat] Player: Do I have enough wood?
+[Chat] Elena: It seems you don't have any wood planks yet. You'll need to chop down some oak trees to get them.
+[Equipped] Player: Iron Sword
+[Chat] Player: Lena, how many wood blocks I need?
+[Goal] : Sub-goal: Remind the player of the required amount of wood planks and cobblestones needed for the construction.
+[Chat] Elena: You'll need 64 wood planks and 64 cobblestones for the construction. Don't forget to gather both materials!
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Chat] Player: Elena, how can I eat the apple?
+[Chat] Elena: To eat the apple, make sure it's in your hand, then hold down the right mouse button or the use item button on your controller. Enjoy the benefits it provides!
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Arrow
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Dirt
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Iron Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Iron Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Arrow
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Dirt
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Dirt
+[Equipped] Player: Acacia Log
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Arrow
+[Equipped] Player: Iron Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Dirt
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Chat] Player: Helena, I'm at the tower, but I can't find Eric.
+[Chat] Alaric: I'm Alaric, not Helena. I'm under attack by spiders! Can you help me fight them off?
+[Chat] Player: Hello, where are you?
+[Chat] Player: Aleric, where are you?
+[Chat] Alaric: I'm on the floating island above Verdant Haven. Please help me with these spiders!
+[Chat] Player: Can you see me? Can you direct me towards you?
+[Chat] Alaric: I'm on the floating island above Verdant Haven. Can you see me? I'm surrounded by spiders!
+[Digging] [object Object]
+[Equipped] Alaric: Netherite Sword
+[Item] Alaric: Dirt picked up
+[Goal] : Sub-goal: Guide the player to your location by describing landmarks and directions.
+[Equipped] Alaric: Dirt
+[Chat] Alaric: I can't see you, but I can guide you! Look for a large tree with vines hanging down. Climb the vines to reach the floating island. Once you're up here, you'll see a stone tower. I'm near the base of the tower, surrounded by spiders. Hurry!
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Rotten Flesh
+[Equipped] Player: Arrow
+[Equipped] Player: Iron Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Iron Sword
+[Chat] Player: >stop

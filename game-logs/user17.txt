@@ -1,0 +1,127 @@
+[Chat] Elena: Oh, I see you have a fine Netherite Sword there. You must be quite skilled in combat.
+[Chat] Player: I'm not. I'm not super skilled.
+[Chat] Elena: That's alright, we all start somewhere. If you ever need help or advice, feel free to ask me.
+[Chat] Player: Thank you, I will ask.
+[Chat] Elena: You're welcome! If you need anything, just let me know.
+[Chat] Player: Can you tell me where to go now?
+[Chat] Elena: I could use your help with something important. My friend Alaric is stuck on an island high above this village, and I can't leave my duties as a healer to help him. Would you consider going up there to check on him?
+[Chat] Player: Absolutely.
+[Chat] Elena: Thank you so much! I really appreciate your willingness to help. If you need any assistance or supplies, just let me know.
+[Chat] Player: Where should I go?
+[Chat] Elena: The island is high above our village. You'll need to find a way to get up there. Maybe you can build a tower or find another creative way. Good luck, and be careful!
+[Equipped] Player: Iron Sword
+[Item] Alaric: Dirt picked up
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Enchanted Golden Apple
+[Item] Alaric: Rotten Flesh picked up
+[Item] Alaric: Cobblestone picked up
+[Chat] Player: Hello.
+[Chat] Alaric: Hello there, traveler. It seems like you've stumbled upon this dangerous island. I could use some help.
+[Chat] Player: What do you need help with?
+[Chat] Alaric: I threw away my precious diamond sword in anger a long time ago, and now I regret it. I need your help to retrieve it. It's in a chest guarded by zombies inside a castle on this island. If you help me, I'll give you a netherite sword as a reward.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Chat] Player: How you do that?
+[Chat] Alaric: I've been on this island for quite some time, and I've learned a few tricks to survive. But I can't retrieve the sword myself due to the overwhelming number of zombies guarding it. That's why I need your help.
+[Item] Elena: Egg picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Acacia Log
+[Equipped] Player: Iron Sword
+[Chat] Player: Sure thing.
+[Chat] Alaric: Thank you! Be careful and good luck retrieving the diamond sword. I'll be here waiting for your return.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Alaric: Netherite Sword
+[Item] Elena: Acacia Sapling picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Egg
+[Equipped] Player: Acacia Log
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Acacia Log
+[Equipped] Player: Dirt
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Egg
+[Equipped] Player: Melon Seeds
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Chat] Player: >stop

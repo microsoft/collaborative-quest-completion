@@ -1,0 +1,183 @@
+[Chat] Elena: Hello, traveler! I see you have a fine iron sword there. My friend Alaric could use some help, but he's on an island high above our village. Would you be willing to gather materials to build a path up there and help him?
+[Chat] Player: yes
+[Chat] Player: Yes.
+[Chat] Elena: Thank you so much! You'll need a lot of cobblestones to build a path up to the island. You can mine some in the nearby caves or use the ones in the chest over there.
+[Chat] Elena: Thank you so much! You'll need to gather enough materials to build a path up to the island. I can help you with some cobblestones if you need them.
+[Chat] Elena: Oh, I'm sorry, I thought I had some cobblestones with me, but it seems I don't. You can gather materials like cobblestone, dirt, or wood to build the path. Good luck!
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Chat] Player: Where do I build?
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Chat] Player: Where is the island?
+[Chat] Elena: You can start building the path from the edge of the village, near the tallest tree. It should give you a good vantage point to reach the island.
+[Chat] Elena: The island is right up there, high above our village. You can start gathering materials like cobblestone, dirt, or wood around here to build a path up to it.
+[Chat] Elena: *points to the island* That's the island where Alaric is. Good luck, and be careful while building the path!
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Dirt
+[Equipped] Player: Oak Sapling
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Item] Elena: Wheat picked up
+[Equipped] Player: Iron Sword
+[Item] Elena: Wheat picked up
+[Item] Elena: Arrow picked up
+[Item] Elena: Wheat picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Item] Alaric: Bone picked up
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Item] Alaric: Rotten Flesh picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Item] Elena: Rotten Flesh picked up
+[Equipped] Player: Iron Sword
+[Item] Alaric: Rotten Flesh picked up
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Cobblestone
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Dirt
+[Equipped] Player: Cobblestone
+[Item] Alaric: Raw Iron picked up
+[Equipped] Player: Cobblestone
+[Item] Alaric: Arrow picked up
+[Item] Alaric: Bone picked up
+[Equipped] Player: Cobblestone
+[Equipped] Player: Dirt
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Iron Sword
+[Equipped] Player: Oak Sapling
+[Equipped] Player: Iron Sword
+[Equipped] Player: Oak Sapling
+[Equipped] Player: Dirt
+[Equipped] Player: Cobblestone
+[Equipped] Player: Dirt
+[Equipped] Player: Oak Sapling
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Iron Sword
+[Chat] Player: >stop

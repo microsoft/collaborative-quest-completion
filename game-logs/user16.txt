@@ -1,0 +1,383 @@
+[Chat] Player: Hello there.
+[Chat] Elena: Hello there! That's a nice iron sword you have. I could use someone skilled like you to help my friend Alaric who's stuck on an island above our village. Would you be willing to help?
+[Chat] Player: Absolutely.
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Diamond Boots
+[Equipped] Player: Diamond Leggings
+[Equipped] Player: Iron Sword
+[Chat] Elena: Great! Thank you so much. You'll need to gather some materials to build a path up to the island. I can provide you with some resources if you promise to help Alaric. Let me know if you need anything.
+[Chat] Elena: Hello! I'm Elena, the village healer. I could use your help with something important. My friend Alaric is stuck on an island above us, and I can't leave the village long enough to help him. Would you be willing to assist him?
+[Chat] Player: ````````````````````````````````tWhat materials do I need?
+[Chat] Elena: You'll need to gather materials to build a path or staircase to reach the island. Cobblestone or wood should work well. Once you have enough, you can start building your way up to the island.
+[Chat] Player: What materials do I need?
+[Goal] : Sub-goal: Provide the player with a specific list of materials and quantities needed for the path or staircase.
+[Chat] Elena: To build a safe path or staircase, you'll need around 100 cobblestones or wooden planks. You can gather cobblestone by mining stone blocks, and wooden planks by chopping down trees and crafting the logs into planks.
+[Equipped] Player: Oak Log
+[Equipped] Player: Crafting Table
+[Equipped] Player: Wooden Pickaxe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Wooden Pickaxe
+[Equipped] Player: Dirt
+[Chat] Player: Are these ear materials in the chest?
+[Chat] Elena: I'm not sure what's in the chest. Let me check for you.
+[Chat] Elena: I found 1 iron pickaxe and 1 splash potion in the chest. You might still need to gather more materials to reach the island.
+[Chat] Player: It doesn't look like that's actually what's in the chest. Are you sure?
+[Goal] : Sub-goal: Double-check the chest contents and provide an accurate list of materials found inside.
+[Chat] Elena: I apologize for the confusion. Let me check the chest again.
+[Equipped] Player: Gravel
+[Equipped] Player: Dirt
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Dirt
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Chat] Player: What's in the chest?
+[Equipped] Player: Iron Sword
+[Chat] Elena: I checked the chest again, and it contains 1 iron pickaxe and 1 splash potion. I apologize for any confusion earlier.
+[Chat] Player: Which chest are you talking about? This one has a cobblestone pickaxe and 64 cobblestone blocks.
+[Chat] Elena: Oh, I must have been looking at the wrong chest. I'm sorry for the confusion. If that chest has a cobblestone pickaxe and 64 cobblestone blocks, that should be enough to start building the path or staircase to the island. You might need to gather a few mo
+[Chat] Elena: re materials, though.
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Gravel
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Chat] Player: OK, I'm pretty sure I have enough materials. What do I do now?
+[Goal] : Sub-goal: Instruct the player on how to begin constructing the path or staircase using the gathered materials.
+[Chat] Elena: Great! Now, you can start building a path or staircase to the island using the materials you've gathered. Place the cobblestone or wooden planks in a stair-like pattern, making sure it's safe and stable as you go. Once you reach the island, please help my
+[Chat] Elena: friend Alaric. Good luck!
+[Chat] Elena: Great! Now, you can start building a path or staircase to the island using the materials you've gathered. Place the cobblestone or wooden planks in a stair-like pattern, making sure it's safe and stable as you go. Once you reach the island, please help my
+[Chat] Elena: friend Alaric. Good luck!
+[Chat] Player: I don't see the island. Where is it?
+[Chat] Elena: The island is high above us. Let me point it out for you.
+[Chat] Elena: There! I'm pointing at the island now. It's up in the sky, so you'll need to build your way up to reach it. Good luck, and please help my friend Alaric!
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Bread
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Bread
+[Item] Alaric: Rotten Flesh picked up
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Mossy Cobblestone
+[Equipped] Player: Cobblestone
+[Equipped] Player: Mossy Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Bread
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Bread
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Bread
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Bricks
+[Equipped] Player: Acacia Log
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Bread
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Stone Bricks
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Diamond Sword
+[Chat] Player: Aleric, I thought you were supposed to be on top of the island.
+[Chat] Alaric: I am on top of the island, but I'm under attack by spiders! I could use some help!
+[Chat] Player: There are no spiders here.
+[Chat] Alaric: I'll defend myself, but I could still use your help!
+[Chat] Player: Defend yourself from what?
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Bricks
+[Equipped] Player: Acacia Log
+[Equipped] Player: Bread
+[Chat] Alaric: Oh, it seems the spiders have retreated for now. Thank you for coming to my aid. I could still use your help with something else, though.
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Stone Bricks
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Diamond Sword
+[Chat] Player: How can I help?
+[Chat] Alaric: These vicious spiders are attacking me! I'm doing my best to defend myself, but your assistance would be greatly appreciated!
+[Chat] Player: There are no vicious spiders.
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Goal] : Sub-goal: Convince the player that the spiders are real and a threat, so they will help in defeating them.
+[Chat] Alaric: I assure you, the spiders are real and they are a threat to both of us. We need to work together to defeat them and secure the area.
+[Equipped] Player: Stone Pickaxe
+[Goal] : Convince the player to gather materials to create a spider repellent.
+[Chat] Alaric: I need to create a spider repellent to keep these spiders at bay. I need you to gather some materials for me. Could you help me with this task?
+[Chat] Player: Absolutely. What materials do I need to gather?
+[Chat] Alaric: We need the following materials:
+[Chat] Alaric: 1. 10 oak logs
+[Chat] Alaric: 2. 5 iron ingots
+[Chat] Alaric: 3. 1 redstone dust
+[Chat] Alaric: 4. 1 slimeball
+[Chat] Alaric: 3. 1 redstone dust
+[Chat] Alaric: 4. 1 slimeball
+[Chat] Alaric: Please gather these materials and bring them back to me.
+[Chat] Player: wAlright, I'll do that.
+[Chat] Alaric: Thank you! I appreciate your help. Please return to me once you have gathered all the materials.
+[Equipped] Player: Stone Axe
+[Equipped] Player: Stone Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Acacia Log
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Acacia Log
+[Equipped] Player: Acacia Planks
+[Equipped] Player: Crafting Table
+[Equipped] Player: Furnace
+[Equipped] Player: Bread
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Slice
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Melon Slice
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Bread
+[Equipped] Player: Dark Oak Slab
+[Equipped] Player: Furnace
+[Equipped] Player: Torch
+[Equipped] Player: Bread
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Melon Slice
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Bread
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Player: Charcoal
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Melon Slice
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Bread
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Torch
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Torch
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Melon Slice
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Bread
+[Equipped] Player: Charcoal
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Bread
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Charcoal
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Diamond Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Torch
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Player: Diamond Sword
+[Equipped] Alaric: Netherite Sword
+[Item] Alaric: String picked up
+[Item] Alaric: Spider Eye picked up
+[Equipped] Alaric: Netherite Sword
+[Item] Alaric: Rotten Flesh picked up
+[Equipped] Alaric: Netherite Sword
+[Item] Alaric: Arrow picked up
+[Item] Elena: Rotten Flesh picked up
+[Equipped] Player: Diamond Sword
+[Equipped] Alaric: Netherite Sword
+[Item] Alaric: Grass Block picked up
+[Chat] Player: I couldn't find those materials you asked for.
+[Goal] : Sub-goal: Suggest alternative materials for the player to gather for the spider repellent.
+[Chat] Alaric: That's okay. We can try making the spider repellent with alternative materials. Please gather these instead:
+[Chat] Alaric: 1. 10 birch logs
+[Chat] Alaric: 2. 3 gold ingots
+[Chat] Alaric: 3. 1 glowstone dust
+[Chat] Alaric: 4. 1 magma cream
+[Chat] Alaric: Return to me once you have collected these materials.
+[Chat] Player: That's even harder.
+[Equipped] Player: Torch
+[Equipped] Player: Charcoal
+[Equipped] Player: Bread
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Torch
+[Chat] Alaric: Sorry about that. Let's try something simpler. Please gather these materials instead:
+[Chat] Alaric: 1. 5 oak logs
+[Chat] Alaric: 2. 10 cobblestone
+[Chat] Alaric: 3. 1 redstone dust
+[Chat] Alaric: Please return to me once you have collected these materials.
+[Equipped] Player: Diamond Sword
+[Chat] Player: How about I just give you a single gold nugget? Would that do the trick?
+[Chat] Alaric: A single gold nugget won't be enough to create the spider repellent, but I appreciate your effort. Let's stick to the simpler materials I mentioned earlier. Please gather the 5 oak logs, 10 cobblestone, and 1 redstone dust.
+[Chat] Player: Where can I find some Redstone dust?
+[Equipped] Player: Torch
+[Equipped] Player: Charcoal
+[Equipped] Player: Bread
+[Equipped] Player: Charcoal
+[Equipped] Player: Torch
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Bread
+[Goal] : Sub-goal: Guide the player to a nearby cave or mine where they can find redstone dust.
+[Equipped] Player: Charcoal
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Crafting Table
+[Chat] Alaric: You can find redstone dust by mining redstone ore, which is usually found deep underground in caves or mines. There's a mine entrance not far from here, to the east. You might find redstone dust there. Just be careful and make sure to bring a pickaxe!
+[Equipped] Player: Cobblestone
+[Equipped] Player: Crafting Table
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Stone Axe
+[Equipped] Player: Cobblestone
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Cobblestone
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Stone Axe
+[Equipped] Player: Iron Pickaxe
+[Equipped] Player: Diamond Sword
+[Equipped] Player: Iron Pickaxe
+[Chat] Player: >stop

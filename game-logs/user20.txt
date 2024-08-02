@@ -1,0 +1,272 @@
+[Chat] Elena: Nice sword you have there! Are you up for an adventure? My friend Alaric needs help on an island high above, and I can't leave the village. Would you be willing to help him?
+[Chat] Player: Where is the village?
+[Chat] Elena: We are in the village, Verdant Haven. Alaric is on an island high above us. If you gather materials, you can build a path to reach him.
+[Chat] Player: What can you tell me about Alaric?
+[Goal] : Sub-goal: Share information about Alaric's expertise and how it benefits the player to gain their interest in helping him.
+[Chat] Elena: Alaric is a skilled adventurer and an expert in combat. He knows a lot about the Minecraft world and its secrets. Helping him might benefit you as well, as he could teach you some of his skills.
+[Chat] Player: OK, sounds good. I'm in.
+[Chat] Elena: Great! To reach the island, you'll need to gather materials to build a path upwards. Start by collecting cobblestone, dirt, or other blocks you can use. Good luck, and let me know if you need any help.
+[Chat] Player: I have a stack of cobblestone. Is that enough?
+[Equipped] Player: Diamond Helmet
+[Equipped] Player: Diamond Chestplate
+[Equipped] Player: Diamond Leggings
+[Chat] Elena: It's a good start, but you might need more to reach the island. Keep gathering materials, and don't hesitate to ask if you need assistance.
+[Equipped] Player: Diamond Boots
+[Chat] Player: Can you tell me how to make a shovel?
+[Equipped] Player: Crafting Table
+[Goal] : Sub-goal: Teach the player how to craft a shovel to help them gather materials more efficiently.
+in the top-middle slot. That's it! You've got you
+[Chat] Elena: rself a shovel.
+[Equipped] Player: Stone Shovel
+[Chat] Player: Thank you.
+[Equipped] Player: Stone Shovel
+[Chat] Elena: You're welcome! If you need any help or have questions, feel free to ask. Good luck gathering materials for the path to the island!
+[Equipped] Player: Stone Shovel
+[Chat] Player: First, the island. I don't see it.
+[Chat] Elena: The island is high above us and may be difficult to see from the ground. You'll notice it as you start building the path upwards. Just keep gathering materials and building, and you'll eventually reach it.
+[Equipped] Player: Wheat
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Dirt
+[Chat] Player: Can you hear me from up here?
+[Equipped] Player: Dirt
+[Goal] : Sub-goal: Assure the player that you can communicate with them from a distance and offer guidance as they build the path.
+[Equipped] Player: Dirt
+[Digging] [object Object]
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Elena: Dirt
+[Equipped] Player: Dirt
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Dirt
+[Equipped] Elena: Dirt
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Item] Elena: Dirt picked up
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Stone Shovel
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Chat] Elena: Yes, I can hear you! If you need any guidance or help, just let me know. Keep building the path, and you'll reach the island soon.
+[Chat] Player: Hey, you just knocked me off this pillar.
+[Chat] Elena: I'm so sorry! I didn't mean to cause any trouble. Please be careful as you continue building the path. Let me know if you need anything.
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Iron Sword
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Iron Sword
+[Equipped] Player: Wheat Seeds
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Wheat
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Enchanted Golden Apple
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Enchanted Golden Apple
+[Chat] Player: Are you OK? You just fell down inside.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Iron Sword
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Chat] Elena: I'm fine, thank you for asking. I must have slipped. Please be careful while building the path, and let me know if you need any help.
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Chat] Player: Is the island that castle over there?
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Dirt
+[Goal] : Sub-goal: Clarify the location of the island and encourage the player to continue building the path towards it.
+[Chat] Elena: Yes, that's the island! Keep building the path towards it, and you'll reach Alaric soon. Be careful and stay safe on your way up.
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Player: Iron Sword
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Player: Iron Sword
+[Equipped] Alaric: Netherite Sword
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Item] Elena: Dirt picked up
+[Equipped] Elena: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Elena: Dirt
+[Equipped] Player: Stone Shovel
+[Equipped] Player: Wheat
+[Equipped] Player: Enchanted Golden Apple
+[Equipped] Player: Dirt
+[Equipped] Elena: Dirt
+[Item] Elena: Dirt picked up
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Alaric: Netherite Sword
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
+[Equipped] Elena: Iron Pickaxe
+[Equipped] Player: Dirt
